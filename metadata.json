@@ -1,0 +1,6 @@
+{
+  "name": "Elite Events Management Suite",
+  "description": "Premium luxury catering and corporate events planner CRM, bento dashboard, invoice manager, culinary catalog, and wizard workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
